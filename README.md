@@ -38,7 +38,7 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 
 
 # Create a Product
- $${\color{red}Red}$$
+ $${\color{red}get}$$
         
 
 # Installation
