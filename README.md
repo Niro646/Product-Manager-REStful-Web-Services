@@ -48,7 +48,7 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 # Get all categories
  Getting all existing categories information from the DB
 
-   GET localhost:6000/api/category/get
+     GET localhost:6000/api/category/get
 
 # Usage
 Content for the Usage section.
