@@ -114,8 +114,3 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
                                               
 
 
-
-
-
-# download files and the run in vscode terminal (cmd terminal) "nodemon" command, basiclly just write nodemon in the cmd teminal
-
