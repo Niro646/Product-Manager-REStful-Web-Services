@@ -26,9 +26,12 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
     Route Not Found
     Additional Endpoints
 
-# Create a Product
 
-- [Introduction](#introduction)
+# Introduction
+## Installation
+## Usage
+## Contributing
+## License
 
 
 
