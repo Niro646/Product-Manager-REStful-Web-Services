@@ -27,11 +27,6 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
     Additional Endpoints
 
 
-# Table of Contents
-## Installation
-## Usage
-## Contributing
-## License
 
 
 # Table of Contents
