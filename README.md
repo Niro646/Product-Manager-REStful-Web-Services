@@ -21,7 +21,7 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 
 # Table of Contents
     Create a Category
-    Retrieve Products
+    Get all categories
     Get a Product by ID
     Update a Product by ID
     Delete a Product by ID
@@ -33,7 +33,7 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 
 # Table of Contents
 - [Create a Category](#create-a-category)
-- [Installation](#installation)
+- [Get all categories](#Get-all-categories)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -42,11 +42,13 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 # Create a Category
  Adding a new category
  
-       GET localhost:6000/api/category/add
+       POST localhost:6000/api/category/add
         
 
-# Installation
-Content for the Installation section.
+# Get all categories
+ Getting all existing categories information from the DB
+
+   GET localhost:6000/api/category/get
 
 # Usage
 Content for the Usage section.
