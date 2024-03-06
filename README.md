@@ -42,6 +42,7 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 
 - [Create a Product](#create-a-product)
 - [Get all Products](#Get-all-Products)
+- [Get Product by ID](#Get-product-by-id)
 
 
 
@@ -87,6 +88,11 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
  Getting all existing Products information from the DB and presenting them to the user
 
        GET localhost:6000/api/product/get
+
+# Get Product by ID
+ Getting a specific Product by searching the DB for it using a ID
+
+       GET localhost:6000/api/product/get/65e8679468b15f9ed414a70d
        
                                               
 
