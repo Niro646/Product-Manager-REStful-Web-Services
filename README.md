@@ -17,7 +17,8 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
   
 </div>
 
-
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
 
 # Table of Contents
     Create a Category
