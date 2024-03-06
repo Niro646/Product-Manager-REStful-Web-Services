@@ -59,7 +59,7 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 # Update a Category by ID
  Updating a specific Category's content by using ID
 
-       PUT localhost:6000/api/update/65e84ce45565cc186a856583
+       PUT localhost:6000/api/category/update/65e84ce45565cc186a856583
 
 # change later
 Content for the License section.
