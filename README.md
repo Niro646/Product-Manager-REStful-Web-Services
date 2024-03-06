@@ -24,7 +24,7 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
     Get all categories
     Get Category by ID
     Update a Category by ID
-    Delete a Product by ID
+    Delete a Category by ID
     Route Not Found
     Additional Endpoints
 
@@ -36,7 +36,7 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 - [Get all Categories](#Get-all-categories)
 - [Get Category by ID](#Get-category-by-id)
 - [Update a Category by ID](#Update_a_Category_by_ID)
-- [License](#license)
+- [Delete a Category by ID](#Delete-a-Category-by-ID)
 
 
 # Create a Category
@@ -61,8 +61,10 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 
        PUT localhost:6000/api/category/update/65e84ce45565cc186a856583
 
-# change later
-Content for the License section.
+# Delete a Category by ID
+ Deleting a  specific Category from the DB
+
+       DELETE localhost:6000/api/category/delete/65e84ce45565cc186a856583
 
 
 
