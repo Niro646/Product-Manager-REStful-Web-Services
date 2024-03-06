@@ -38,8 +38,7 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 
 
 # Create a Product
-[<span style="color:red;">GET</span> a Product]
-    GET
+ ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
         
 
 # Installation
