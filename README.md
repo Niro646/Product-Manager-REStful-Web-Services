@@ -72,7 +72,8 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
  Creating a new Product
 
        POST localhost:6000/api/product/add
-       > [!NOTE]possible raw data for you to try:
+       > [!NOTE]
+       > possible raw data for you to try:
        {
         "name":"mass effect 1",
         "unitPrice":"50",
