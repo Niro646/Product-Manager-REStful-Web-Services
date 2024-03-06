@@ -28,18 +28,6 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 
 
 # Table of Contents
-    Create a Category
-    Get all categories
-    Get Category by ID
-    Update a Category by ID
-    Delete a Category by ID
-    Route Not Found
-    Additional Endpoints
-
-
-
-
-# Table of Contents
 
 - [Create a Category](#create-a-category)
 - [Get all Categories](#Get-all-categories)
