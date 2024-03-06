@@ -73,11 +73,11 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 
        POST localhost:6000/api/product/add
        possible raw data for you to try:
-{
-"name":"mass effect 1",
-"unitPrice":"50",
-"categoryId":"65e85df05565cc186a856586"
-}
+       {
+        "name":"mass effect 1",
+        "unitPrice":"50",
+        "categoryId":"65e85df05565cc186a856586"
+       }
 
                                               
 
