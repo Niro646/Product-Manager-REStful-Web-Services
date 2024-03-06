@@ -14,7 +14,7 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg" title="nodemon" alt="nodemon" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="70" height="70"/>&nbsp;
-  <img src="https://res.cloudinary.com/dotenv-org/image/upload/c_scale,w_400/v1665605496/68747470733a2f2f73696e647265736f726875732e636f6d2f6173736574732f7468616e6b732f776f726b6f732d6c6f676f2d77686974652d62672e737667_zdmsbu.svg" title="dotenv" alt="dotenv" width="70" height="70"/>&nbsp;
+  <img src="https://img.shields.io/npm/v/dotenv.svg?style=flat-square" title="dotenv" alt="dotenv" width="70" height="70"/>&nbsp;
   
 </div>
 
