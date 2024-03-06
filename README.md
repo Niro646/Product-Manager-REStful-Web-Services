@@ -35,7 +35,7 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 - [Create a Category](#create-a-category)
 - [Get all Categories](#Get-all-categories)
 - [Get Category by ID](#Get-category-by-id)
-- [Contributing](#contributing)
+- [Update a Category by ID](#Update_a_Category_by_ID)
 - [License](#license)
 
 
@@ -51,13 +51,15 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
        GET localhost:6000/api/category/get
 
 # Get Category by ID
- Getting a specific category by searching the DB for it using a id
+ Getting a specific category by searching the DB for it using a ID
 
        GET localhost:6000/api/category/get/65e84ce45565cc186a856583
 
 
-# Contributing
-Content for the Contributing section.
+# Update a Category by ID
+ Updating a specific Category's content by using ID
+
+       PUT localhost:6000/api/update/65e84ce45565cc186a856583
 
 # change later
 Content for the License section.
