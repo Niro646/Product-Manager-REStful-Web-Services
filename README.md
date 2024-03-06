@@ -38,7 +38,8 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 
 
 # Create a Product
-Content for the Introduction section.
+Create a new product
+  ff
 
 # Installation
 Content for the Installation section.
