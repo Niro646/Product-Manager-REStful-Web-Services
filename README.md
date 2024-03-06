@@ -73,7 +73,6 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 
        POST localhost:6000/api/product/add
 
-
 ggg
 
 
