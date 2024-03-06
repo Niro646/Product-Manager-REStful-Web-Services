@@ -75,12 +75,12 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
        > [!NOTE]
        > possible raw data for you to try:
        ```json
-> {
->   "name": "mass effect 1",
->   "unitPrice": "50",
->   "categoryId": "65e85df05565cc186a856586"
-> }
-> ```
+       > {
+       >   "name": "mass effect 1",
+       >   "unitPrice": "50",
+       >   "categoryId": "65e85df05565cc186a856586"
+       > }
+       > ```
 
                                               
 
