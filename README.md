@@ -101,6 +101,7 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
        PUT localhost:6000/api/product/update/65e8679468b15f9ed414a70d
 > [!NOTE]
 > possible Body of Request for you to update to if you followed the previous example note:
+> 
 > {
         "_id": "65e8679468b15f9ed414a70d",
         "name": "mass effect 2",
