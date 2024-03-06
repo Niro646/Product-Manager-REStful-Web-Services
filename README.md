@@ -41,7 +41,7 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 
 # Create a Category
  Adding a new category
-     GET localhost:6000/api/category/add
+       GET localhost:6000/api/category/add
         
 
 # Installation
