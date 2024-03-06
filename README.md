@@ -43,6 +43,7 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 - [Create a Product](#create-a-product)
 - [Get all Products](#Get-all-Products)
 - [Get Product by ID](#Get-product-by-id)
+- [Update a Product by ID](#Update-a-Product-by-ID)
 
 
 
@@ -77,7 +78,7 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 
        POST localhost:6000/api/product/add
 > [!NOTE]
-> possible raw data for you to try:
+> possible raw data for you to enter in the Body section of Request:
 > {
     "name":"mass effect 1",
     "unitPrice":"50",
@@ -93,6 +94,19 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
  Getting a specific Product by searching the DB for it using a ID
 
        GET localhost:6000/api/product/get/65e8679468b15f9ed414a70d
+
+# Update a Product by ID
+ Updating a specific Product's content by using ID
+
+       PUT localhost:6000/api/product/update/65e8679468b15f9ed414a70d
+> [!NOTE]
+> possible Body of Request for you to update to if you followed the previous example note:
+> {
+        "_id": "65e8679468b15f9ed414a70d",
+        "name": "mass effect 2",
+        "unitPrice": 100,
+        "categoryId": "65e85df05565cc186a856586"
+}
        
                                               
 
