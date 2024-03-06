@@ -17,8 +17,8 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
   
 </div>
 
-
-
+<br />
+<br />
 > [!IMPORTANT]
 > # Getting Started
 > 1.Clone the repository.<br />
