@@ -17,7 +17,18 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
   
 </div>
 
+# Table of Contents
+    Create a Product
+    Retrieve Products
+    Get a Product by ID
+    Update a Product by ID
+    Delete a Product by ID
+    Route Not Found
+    Additional Endpoints
 
+# Create a Product
+
+- [Introduction](#introduction)
 
 
 
