@@ -30,14 +30,14 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 
 
 # Table of Contents
-- [Introduction](#introduction)
+- [Create a Product](#Create a Product)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
 
-# Introduction
+# Create a Product
 Content for the Introduction section.
 
 # Installation
