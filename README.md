@@ -41,6 +41,8 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 - [Delete a Category by ID](#Delete-a-Category-by-ID)
 
 - [Create a Product](#create-a-product)
+- [Get all Products](#Get-all-Products)
+
 
 
 # Create a Category
@@ -80,6 +82,11 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
     "unitPrice":"50",
     "categoryId":"65e85df05565cc186a856586"
 }
+
+# Get all Products
+ Getting all existing Products information from the DB and presenting them to the user
+
+       GET localhost:6000/api/product/get
        
                                               
 
