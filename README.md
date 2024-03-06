@@ -41,7 +41,7 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 
 # Create a Product
    ```diff
-   # text in gray
+   # text in red
         
 
 # Installation
