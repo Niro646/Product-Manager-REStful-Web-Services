@@ -38,7 +38,7 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 
 
 # Create a Product
- ![#f03c15](GET) `#f03c15`
+ $${\color{red}Red}$$
         
 
 # Installation
