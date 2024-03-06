@@ -37,7 +37,7 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 - [License](#license)
 
 
-# Create a Product
+## Create a Product
 Create a new product
       gg
 
