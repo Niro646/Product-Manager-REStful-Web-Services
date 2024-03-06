@@ -42,6 +42,21 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 - [License](#license)
 
 
+# Introduction
+Content for the Introduction section.
+
+# Installation
+Content for the Installation section.
+
+# Usage
+Content for the Usage section.
+
+# Contributing
+Content for the Contributing section.
+
+# License
+Content for the License section.
+
 
 
 
