@@ -22,15 +22,15 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 # Table of Contents
     Create a Category
     Get all categories
-    Get category by id
-    Update a Product by ID
+    Get Category by id
+    Update a Category by ID
     Delete a Product by ID
     Route Not Found
     Additional Endpoints
 
 
 
-localhost:6000/api/category/get/65e84ce45565cc186a856583
+
 # Table of Contents
 - [Create a Category](#create-a-category)
 - [Get all categories](#Get-all-categories)
@@ -45,12 +45,12 @@ localhost:6000/api/category/get/65e84ce45565cc186a856583
        POST localhost:6000/api/category/add
         
 
-# Get all categories
+# Get all Categories
  Getting all existing categories information from the DB
 
        GET localhost:6000/api/category/get
 
-# Get category by id
+# Get Category by ID
  Getting a specific category by searching the DB for it using a id
 
        GET localhost:6000/api/category/get/65e84ce45565cc186a856583
