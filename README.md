@@ -20,7 +20,7 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 
 
 # Table of Contents
-    Create a Product
+    Create a Category
     Retrieve Products
     Get a Product by ID
     Update a Product by ID
@@ -32,15 +32,15 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
 
 
 # Table of Contents
-- [Create a Product](#create-a-product)
+- [Create a Category](#create-a-category)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
 
-# Create a Product
-    GET
+# Create a Category
+    GET 
         
 
 # Installation
