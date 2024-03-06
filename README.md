@@ -17,8 +17,12 @@ A scalable REST API developed in Node.Js to facilitate CRUD(create, read, update
   
 </div>
 
+
+> [!IMPORTANT]
+> # Getting Started
+
 # Getting Started
-1.Clone the repository./n
+1.Clone the repository.
 2.Install the dependencies with npm install.
 3.Open the terminal in your code editor and write 'nodemon'
 
